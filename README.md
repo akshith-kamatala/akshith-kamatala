@@ -1,8 +1,10 @@
-# 🗺 Akshith's Portfolio
+# 📊 Welcome to My GitHub Portfolio
 
-🎯 **Business & Data Analyst | Financial Reporting | Automation | Process Improvement**
+<img src="banner.png" alt="Akshith Kamatala Banner" width="100%" />
 
-I’m a Business Analyst with over 4 years of experience in financial reporting, automation, and data analytics. I specialize in using **Excel, Alteryx, Power BI, SQL, and Python** to help organizations streamline reporting processes and make smarter decisions. Currently pursuing my **MS in Business Analytics at Rochester Institute of Technology (RIT).**
+---
+
+Hello, I'm **Akshith**, a Business & Data Analyst with expertise in financial reporting, automation, and analytics. I enjoy solving problems with data and building solutions with tools like **Power BI, SQL, Python, Excel, and Alteryx**.
 
 ---
 
