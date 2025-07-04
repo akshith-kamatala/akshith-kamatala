@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akshith Kamatala
+# 🗺 Akshith's Portfolio
 
 🎯 **Business & Data Analyst | Financial Reporting | Automation | Process Improvement**
 
