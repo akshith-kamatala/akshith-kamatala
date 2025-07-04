@@ -1,6 +1,6 @@
 # 📊 Welcome to My GitHub Portfolio
 
-<img src="banner.png" alt="Akshith Kamatala Banner" width="100%" />
+<img src="Banner.png" alt="Akshith Kamatala Banner" width="100%" />
 
 ---
 
