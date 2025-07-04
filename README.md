@@ -1,17 +1,13 @@
 ## 🙋‍ Introducing Myself
-
 <img src="Banner.png" alt="Akshith Kamatala Banner" width="100%" />
-
----
 
 Hello, I'm **Akshith**, a Business & Data Analyst with expertise in financial reporting, automation, and analytics. I enjoy solving problems with data and building solutions with tools like **Power BI, SQL, Python, Excel, and Alteryx**.
 
----
 
 ## 📚  Projects
 
 Welcome to my portfolio, where I showcase my projects.
----
+
 
 ## ⚙️ Tools & Technologies
 
@@ -19,9 +15,8 @@ Welcome to my portfolio, where I showcase my projects.
 |-----------------------|-------------|---------------|-------------|
 | Excel, SQL            | Alteryx     | Power BI, Tableau | Python |
 
----
 
-## 🌐 Connect with Me
+##👋🏻 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/akshithkamatala)
 - ✉️ akshithkamatala@gmail.com
