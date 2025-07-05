@@ -19,4 +19,4 @@ Welcome to my portfolio, where I showcase my projects.
 ##👋🏻 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/akshithkamatala)
-- ✉️ akshithkamatala@gmail.com
+- ✉ akshithkamatala@gmail.com
