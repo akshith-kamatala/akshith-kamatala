@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my projects.
 | Excel, SQL            | Alteryx     | Power BI, Tableau | Python |
 
 
-##👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/akshithkamatala)
-- ✉ akshithkamatala@gmail.com
+- [LinkedIn](https://linkedin.com/in/akshithkamatala)
+- akshithkamatala@gmail.com
