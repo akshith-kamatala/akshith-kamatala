@@ -6,7 +6,7 @@ Hello, I'm **Akshith**, a Business & Data Analyst with expertise in financial re
 
 ## 📚  Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/akshithkamatala/Portfolio-Guide/blob/main/README.md).
 
 
 ## ⚙️ Tools & Technologies
