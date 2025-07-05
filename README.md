@@ -1,5 +1,5 @@
 ## 🙋‍ Introducing Myself
-<img src="Banner.png" alt="Akshith Kamatala Banner" width="100%" />
+<img src="banner.png" alt="Akshith Kamatala Banner" width="100%" />
 
 Hello, I'm **Akshith**, a Business & Data Analyst with expertise in financial reporting, automation, and analytics. I enjoy solving problems with data and building solutions with tools like **Power BI, SQL, Python, Excel, and Alteryx**.
 
